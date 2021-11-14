@@ -1,0 +1,16 @@
+body{
+    background-image:url(file-20210913-23828-1xbipdi.png) ;
+    text-align: center;
+}
+h1{
+    color:chartreuse;
+    font-family: fantasy;
+}
+p{
+    font-family: monospace;
+color: coral;   
+    font-size: 24px;
+}
+a{
+    color: cornflowerblue;
+}
